@@ -77,7 +77,7 @@ All customisations were implemented at the **theme level** and pushed to a GitHu
 ### **Product Listing Page**
 | Feature | Screenshot |
 |---------|------------|
-| Filters | ![Filters](screenshots/product-listing-page-sorting-options.png) |
+| Filters | ![Filters](screenshots/product-listing-page-filter.png) |
 | Sorting Options | ![Sorting](screenshots/product-listing-page-sorting-options.png) |
 
 ---
