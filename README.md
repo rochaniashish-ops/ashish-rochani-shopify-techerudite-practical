@@ -70,15 +70,15 @@ All customisations were implemented at the **theme level** and pushed to a GitHu
 ### **Product Detail Page**
 | Feature | Screenshot |
 |---------|------------|
-| Color Swatches | ![Color Swatches](https://www.awesomescreenshot.com/image/55981553?key=3bc9a3b75dfd0e0e4a35c6f06e92a0d0) |
-| Size Pills with Stock Indicators | ![Size Pills]( https://www.awesomescreenshot.com/image/55981601?key=20831ac8471816161fc51552f20a6547 ) |
-| Stock Messages | ![Stock Message]( https://www.awesomescreenshot.com/image/55981610?key=d540dcb39137ac26e2ea95f880737653 ) |
+| Color Swatches | ![Color Swatches](screenshots/product-color-swatches.png) |
+| Size Pills with Stock Indicators | ![Size Pills](screenshots/product-size-options-with-highlight-of-stock.png) |
+| Stock Messages | ![Stock Message](screenshots/stock-status-message.png) |
 
 ### **Product Listing Page**
 | Feature | Screenshot |
 |---------|------------|
-| Filters | ![Filters]( https://www.awesomescreenshot.com/image/55981616?key=ebb3ac39c8eebf291dd3135d8a6d98e3 ) |
-| Sorting Options | ![Sorting]( https://www.awesomescreenshot.com/image/55981628?key=b62aafa82defc98760888cfa57e770e7 ) |
+| Filters | ![Filters](screenshots/product-listing-page-sorting-options.png) |
+| Sorting Options | ![Sorting](screenshots/product-listing-page-sorting-options.png) |
 
 ---
 
